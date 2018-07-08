@@ -3,7 +3,7 @@
   width: 60%;
 }
 .jumbotron p {
-  padding: 5%;
+  padding: 2%;
   color: rgb(21, 144, 226);
 }
 
@@ -48,4 +48,30 @@ h3 {
   color: grey;
   margin: 10% 0;
   padding: 5%;
+}
+
+.c1 {
+  margin: 2% 5px 2% 10px;
+  background-color: white;
+  color: rgb(41, 104, 104) !important;
+}
+.c2 {
+  margin: 2% 5px;
+  background-color: grey;
+  color: rgb(21, 228, 228) !important;
+}
+.c3 {
+  margin: 2% 5px;
+  background-color: lightslategray;
+  color: rgb(248, 255, 255) !important;
+}
+.c4 {
+  margin: 2% 5px;
+  background-color: rgb(187, 20, 20);
+  color: rgb(221, 221, 221) !important;
+}
+.c5 {
+  margin: 2% 5px;
+  background-color: rgb(151, 105, 105);
+  color: rgb(147, 192, 192) !important;
 }
