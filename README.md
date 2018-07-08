@@ -2,7 +2,7 @@
 
 Welcome to TigTime, 
 a baby repo with the soul goal of introducing you to
-[Tig](https://jonas.github.io/tig/)
+[Tig](https://github.com/jonas/tig)
 
 ## A curses frontend to Git
 
@@ -17,3 +17,5 @@ OS X through [Homebrew](https://brew.sh/)
 Linux with the aid of [Nix](https://nixos.org/nix/)
 and
 Windows with the help of [Cygwin](https://www.cygwin.com/)
+
+[Tig docs found here](https://jonas.github.io/tig/)
