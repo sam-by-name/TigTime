@@ -21,6 +21,10 @@ h3 {
   transform: rotate(360deg) !important;
 }
 
-.navbar {
-
+.navbar-right {
+  right: 10%;
+  left: 80%;
+  position: absolute;
+  bottom: 3%;
+  
 }
