@@ -19,8 +19,16 @@ h3 {
 }
 .btn-primary {
   margin: 0 45% !important;
+  transition: transform 2s !important;
+}
+.btn-primary:hover {
+  transform: rotate(360deg) !important;
 }
 
-.navbar {
-
+.navbar-right {
+  right: 10%;
+  left: 80%;
+  position: absolute;
+  bottom: 3%;
+  
 }
