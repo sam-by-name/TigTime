@@ -1,0 +1,8 @@
+{
+  "name": "TigTime",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sam-by-name/TigTime.git",
+  "author": "sam-by-name <sam-sanders@hotmail.co.uk>",
+  "license": "MIT"
+}
