@@ -1,6 +1,5 @@
 .jumbotron {
   margin: 10% 20% 0 20%;
-  padding-left: 10%;
 }
 
 h1 {
@@ -12,9 +11,10 @@ h1 {
 h3 {
   color: lightseagreen !important;
   font-size: 1.2em;
+  text-align: center;
 }
 .btn-primary {
-  margin: 0 35% !important;
+  margin: 0 45% !important;
 }
 
 .navbar {
