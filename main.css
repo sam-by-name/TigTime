@@ -33,3 +33,16 @@ h3 {
   bottom: 3%;
   
 }
+
+.lifeCont {
+  width: 60%;
+  height: 20%;
+  margin: 0 auto;
+  background-color: lightcyan;
+}
+
+.life {
+  color: grey;
+  margin: 10% 0;
+  padding: 5%;
+}
